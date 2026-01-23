@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Raekwon Onirele Santos Aleixo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu (USJT). Me encontrei profissionalmente em tecnologia e busco sempre por conhecimento e aprimoramento.
+Me chamo Raekwon Onirele Santos Aleixo, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu (USJT). Me encontrei profissionalmente em tecnologia e busco sempre por conhecimento e aprimoramento.
 
 <p align="left"> 
     <a href="https://github.com/Raekwon-Onirele?tab=repositories&sort=stargazers">
